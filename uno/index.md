@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../assets/style.css">
+
 ## Gli organismi
 
 1. Il Collegio dei docenti
@@ -14,3 +16,5 @@ Tra i suoi compiti principali rientrano la definizione dell’offerta formativa 
 Le riunioni del Collegio si svolgono più volte durante l’anno scolastico, in genere all’inizio, a metà e alla fine, e sono obbligatorie per tutti i docenti di ruolo e per quelli con incarico annuale. Le decisioni vengono prese a maggioranza e sono vincolanti per l’intero corpo docente.
 
 In scuola con più sezioni (ad esempio Classico, Liceo delle Scienze Umane e Artisti-co) si distinguono un Collegio di sezione, che affronta le problematiche specifiche di quella sezione, e un Collegio unitario di tutti i docenti.
+
+<div class="info-box">Il Collegio dei docenti è l’organo fondamentale della gestione democratica della scuola, che tuttavia rischia sempre più di trasformarsi in un organismo appesantito da procedure formali e da una gestione che privilegia l’adempimento normativo ri-spetto alla riflessione didattica. Gran parte delle riunioni è dedicata alla ratifica di documenti imposti dalla normativa, come il PTOF, il RAV (Rapporto di Autova-lutazione) e il Piano di Miglioramento, con scarso margine di discussione reale sulle strategie educative. Inoltre, il tempo dedicato ai problemi concreti della didattica e dell’insegnamento si riduce sempre più, soffocato da ordini del giorno lunghi e di-spersivi, che finiscono per rendere il Collegio un organo più deliberativo che propo-sitivo.</div>
