@@ -9,5 +9,7 @@ Siena, aprile 2025
 ## Indice
 
 [**1. Gli organismi**](uno/index.md)  
-   1.1. Il Collegio dei docenti    
-   1.2.  
+  1. Il Collegio dei docenti
+  2. Il Consiglio d’Istituto
+  3. I Dipartimenti
+  4. Il Consiglio di classe
