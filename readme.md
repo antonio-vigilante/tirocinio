@@ -10,6 +10,6 @@ Siena, aprile 2025
 
 ## Indice
 
-**1. Gli organismi**  
+[**1. Gli organismi**](uno/index.md)  
    1.1. Il Collegio dei docenti    
    1.2.  
